@@ -1,0 +1,6 @@
+dist/
+build/
+UNKNOWN.egg-info/
+RoniLint.egg-info/
+ronilint.egg-info/
+.ron/
